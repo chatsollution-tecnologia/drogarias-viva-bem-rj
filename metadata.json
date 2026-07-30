@@ -1,0 +1,6 @@
+{
+  "name": "Drogarias Viva Bem",
+  "description": "Site institucional das Drogarias Viva Bem com unidades na Maré, Maria da Graça e Tauá no Rio de Janeiro.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
